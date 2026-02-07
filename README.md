@@ -22,5 +22,4 @@ Exploratory Data Analysis (EDA) project demonstrating data cleaning, visualizati
 
 ## ▶️ How to Run
 ```bash
-pip install -r requirements.txt
 jupyter notebook Data_Scientist_data_analysis.ipynb
